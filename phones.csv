@@ -1,0 +1,9 @@
+model,brand,base_price,stock,condition,specs
+iPhone 12,Apple,500,10,New,128GB Black
+iPhone 11,Apple,350,5,Good,64GB White
+Galaxy S21,Samsung,400,8,New,128GB Silver
+Galaxy A52,Samsung,250,12,Good,128GB Blue
+Redmi Note 10,Xiaomi,150,0,Scrap,64GB Green
+OnePlus 9,OnePlus,420,6,Good,128GB Gray
+Pixel 6,Google,450,4,New,128GB Black
+Pixel 5,Google,280,2,Scrap,64GB Green
